@@ -7,3 +7,9 @@ Depending on the user's choice, the program calls the corresponding method: `cal
 For example, the `calculateVelocity()` method prompts the user to enter the distance and time and calculates the velocity using the formula velocity = distance / time. The result is then printed to the console.
 
 The code uses basic arithmetic operations and user input/output handling to perform calculations and display results in a user-friendly manner.
+
+OZOEMENAM CHIBUIKE BHU/21/04/05/0049
+JAGABA JOSHUA LA'ANA BHU/21/04/07/0001
+KATUKA MARTINS BHU/21/0 
+ABARAHAM MOSES SALEH
+OSANGA WISDOM YUSUF 
